@@ -2,31 +2,38 @@
         "myBudget": [
     {
         "title": "Eat out",
-        "budget": 30
+        "budget": 30,
+        "color": "#cc00cc"
     },
     {
         "title": "Rent",
-        "budget": 350
+        "budget": 350,
+        "color": "#ff6384"
     },
     {
         "title": "Groceries",
-        "budget": 90
+        "budget": 90,
+        "color": "#36a2eb"
     },
     {
         "title": "Gas",
-        "budget": 50
+        "budget": 50,
+        "color": "#fd6b29"
     },
     {
         "title": "Dog Food",
-        "budget": 50
+        "budget": 50,
+        "color": "#3333ff"
     },
     {
         "title": "Internet",
-        "budget": 70
+        "budget": 70,
+        "color": "#ff0000"
     },
     {
         "title": "Car Insurance",
-        "budget": 100
+        "budget": 100,
+        "color": "#00ff00"
     }
     ]
 }
